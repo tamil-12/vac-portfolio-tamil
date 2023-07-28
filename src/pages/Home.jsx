@@ -1,4 +1,6 @@
 import React from "react";
+import '../styles/home.css'
+import '../styles/NavBar.css'
 const Home = () => {
   // const GetMeal = async () => {
   //   let res = await fetch(
@@ -14,8 +16,17 @@ const Home = () => {
 
   return (
     <div>
-      <p>Home</p>
+      {/* <div className="header">
+    <div className="leftsection">
+    Cristopher Galarce
+    <div className="now"> <p className="layout">Now Available</p></div>
+
     </div>
+   
+      
+    </div> */}
+    </div>
+    
   );
 };
 

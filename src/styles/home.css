@@ -1,0 +1,33 @@
+.app{
+    color: var(--dark-90, #19192E);
+font-family: Poppins;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+letter-spacing: -0.8px;
+
+}
+.now{
+
+     border-radius: 179.467px; 
+background: var(--brand-main-20, #F5EDFF);
+border: 1px solid #F5EDFF;
+color: var(--brand-main-50, #AF48FF);
+font-feature-settings: 'clig' off, 'liga' off;
+font-family: Poppins;
+font-size: 12px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+
+
+
+}
+.layout{
+    display: inline-flex;
+padding: 6px 10px;
+align-items: center;
+gap: 18px;
+
+}
